@@ -1,0 +1,46 @@
+There is no singular definition to what DevOps entails. I will describe DevOps as a culture, 
+a framework to create a bridge that joins developement and operations to ensure 
+temas deploy their code to production environment seamlessly and faster in a repeatable
+and automated way.
+
+DevOps is more than just it tools, it involves principles, processes that aid the successfully 
+delivery of projects or products through easier, efficient and faster means of deployment. DevOps is 
+not Agile, but it agrees with Agile methodology that software features should be built and deployed as simpler parts or units.
+
+Benefits of DevOps to a team
+1. Lower the failure rate for new realeases.
+2. Incresase deployment frequency.
+3. Shorten lead time between fixes.
+4. Achieve quick recovery from a new release after it crashes the aopplication.
+
+Devops Lifecycle
+This includes certain practices that should be adoption in a team to practice DevOps
+* Continuous planning
+* Collaborative development
+* Continuous testing
+* Continuous release and deployment
+* Continuous monitoring
+
+DevOps Principles
+- Develop and test against a production-like environment.
+- Deploying with reliable and repeatable processes.
+- Monitor and validate operational quality.
+- Amplify feedback loops
+
+DevOps is the amalgamation of development and operations, which practices or responsibilties does unit have to make the establish DevOps in a team.
+
+Development
+1. Plan
+2. Code
+3. Build
+4. Test
+
+Operations
+1. Relaease
+2. Deploy
+3. Monitor
+4. Operate
+
+It is understandable that present situation of the market dermands a cost efficency and speed to quicky deliver products. And engineers and operators finding it
+difficult to ship smoothly as a result of chalenges facing from development to production phase. DevOps addresses or minimizing this issues by merging both development and operations
+to collaborate, work efficiently and quick response to customer feedbacks.
